@@ -7,3 +7,5 @@ adding more content to filen two,
 pink fix - one more bug fixed.
 
 another fix message for pink mode
+
+another fix message for parple mode
